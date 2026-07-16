@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-Hello!!!
-=======
 Hello!!!
 World!!!
 How are you?
 I am Fine!!!
 What are you doing?
->>>>>>> e4d35b0cb9bebae6ce36d73a9fb068974d36b3d7
