@@ -9,3 +9,8 @@ What is Your name?
 My name is Earth! 
 
 Cool!!!
+
+How are you?
+I am Fine!!!
+What are you doing?
+I do Everything!!!
